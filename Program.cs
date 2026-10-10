@@ -56,7 +56,8 @@ partial class Program
         #region 04 - ExcepCollections 
         // HandleException();
         // Collections();
-        Linq();
+        // Linq();
+        AdvancedLinq.Program.AdvancedLINQ();
 
         #endregion
     }
