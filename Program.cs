@@ -58,7 +58,15 @@ partial class Program
         // Collections();
         // Linq();
         // AdvancedLinq.Program.AdvancedLINQ();
-        SalesAnalysis();
+        // SalesAnalysis();
+        #endregion
+
+        #region 05 - Files
+        // FileExample();
+        // DirectoryExample();
+        // PathExample();
+        // WriteFileExample();
+        ManageJsonFile.Program.ManageJsonFile();
 
         #endregion
     }
