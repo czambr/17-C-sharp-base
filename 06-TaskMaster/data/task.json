@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "05dc700",
+    "Description": "Limpiar el cuarto",
+    "Completed": true,
+    "CreatedAt": "2024-04-15T00:00:00",
+    "ModifiedAt": "2025-03-10T18:17:56.371587-05:00",
+    "Deleted": true
+  },
+  {
+    "Id": "f73d8fd",
+    "Description": "Comer saludable",
+    "Completed": true,
+    "CreatedAt": "2024-01-15T00:00:00",
+    "ModifiedAt": "2026-10-11T19:53:31.3790476-05:00",
+    "Deleted": true
+  },
+  {
+    "Id": "3f6c921",
+    "Description": "Estudiar C#",
+    "Completed": false,
+    "CreatedAt": "2025-03-11T14:20:53.051415-05:00",
+    "ModifiedAt": "2025-03-12T12:16:17.74727-05:00",
+    "Deleted": false
+  },
+  {
+    "Id": "8fad049",
+    "Description": "Estudiar Java",
+    "Completed": true,
+    "CreatedAt": "2026-10-11T14:24:24.3108599-05:00",
+    "ModifiedAt": "2026-10-11T21:56:36.0530483-05:00",
+    "Deleted": false
+  },
+  {
+    "Id": "72ad912",
+    "Description": "estudiar python",
+    "Completed": false,
+    "CreatedAt": "2026-10-11T14:37:06.6198038-05:00",
+    "ModifiedAt": "2026-10-11T14:37:06.6198105-05:00",
+    "Deleted": false
+  }
+]
